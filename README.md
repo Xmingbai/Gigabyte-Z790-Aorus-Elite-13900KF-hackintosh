@@ -19,8 +19,8 @@ Tip3  注意config.plist中Booter设置项不同
 
 #
 
-![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B660M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/RX6650XT%26RX6950XT.png)
-![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B660M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/RX6650XT%26RX6950XT.png)
-![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B660M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/RX6650XT%26RX6950XT.png)
-![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B660M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/RX6650XT%26RX6950XT.png)
-![](https://github.com/Xmingbai/ASUS-TUF-GAMING-B660M-PLUS-Wi-Fi-D4-Hackintosh/blob/main/RX6650XT%26RX6950XT.png)
+![](https://github.com/Xmingbai/gigabyte-Z790-Aorus-Elite-13900KF-hackintosh/blob/main/PC.png)
+![](https://github.com/Xmingbai/gigabyte-Z790-Aorus-Elite-13900KF-hackintosh/blob/main/PC.png)
+![](https://github.com/Xmingbai/gigabyte-Z790-Aorus-Elite-13900KF-hackintosh/blob/main/PC.png)
+![](https://github.com/Xmingbai/gigabyte-Z790-Aorus-Elite-13900KF-hackintosh/blob/main/PC.png)
+![](https://github.com/Xmingbai/gigabyte-Z790-Aorus-Elite-13900KF-hackintosh/blob/main/PC.png)
