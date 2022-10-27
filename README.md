@@ -9,7 +9,7 @@
 # PC硬件配置单
 CPU ：i9-13900KF
 
-主板 ：GG Z790 Aorus Elite 
+主板 ：GG Z790 Aorus Elite AX
 
 显卡 ：RX6800 16GB公版
 
@@ -23,13 +23,14 @@ CPU ：i9-13900KF
 
 
 # 注意点
+
 Tip1  Windows下定制USB
 
 Tip2  ALC897声卡需仿冒device-id= D07A0000
 
 Tip3  注意config.plist中Booter设置项不同
 
-Tip4 bios 设置参考https://www.bilibili.com/read/cv8519606
+Tip4  bios设置参考   https://www.bilibili.com/read/cv8519606
 
 # 相关截图
 
