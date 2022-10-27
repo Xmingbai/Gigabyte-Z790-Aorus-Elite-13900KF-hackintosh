@@ -2,7 +2,9 @@
 
 编辑中......
 
-# 支持的系统版本 MacOS big sur 11.x、Monterey 12.x、Ventura 13.x
+# 第一个引导版本OC086 beta
+
+支持的系统版本 MacOS big sur 11.x、Monterey 12.x、Ventura 13.x
 
 # PC硬件配置单
 CPU ：i9-13900KF
