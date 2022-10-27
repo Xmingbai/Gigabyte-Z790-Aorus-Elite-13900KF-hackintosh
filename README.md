@@ -1,5 +1,7 @@
 # gigabyte-Z790-Aorus-Elite-13900KF-hackintosh
 
+编辑中......
+
 # 支持的系统版本 MacOS big sur 11.x、Monterey 12.x、Ventura 13.x
 
 # PC硬件配置单
