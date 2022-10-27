@@ -1,4 +1,4 @@
-# gigabyte-Z790-Aorus-Elite-13900KF-hackintosh
+# Gigabyte-Z790-Aorus-Elite-13900KF-hackintosh
 
 编辑中......
 
