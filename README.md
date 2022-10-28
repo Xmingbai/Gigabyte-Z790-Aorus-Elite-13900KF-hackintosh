@@ -31,7 +31,7 @@ CPU ：i9-13900KF
 
 # 完善程度
 
-CPU 跑分还算正常 Geekbench多核心2w5  、r20 多核心1w5 
+CPU 跑分还算正常 Geekbench多核心2w5、r20 多核心1w5 （未超频）
 
 USB 2.0 和3.0正常 （不含前置USB）
 
