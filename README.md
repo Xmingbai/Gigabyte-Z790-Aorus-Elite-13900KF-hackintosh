@@ -2,7 +2,7 @@
 
 编辑中......
 
-# 主机测评视频
+# 主机测评视频，淘宝店铺：小明白工作室
 
 B站 https://www.bilibili.com/video/BV1S8411a7sU
 
