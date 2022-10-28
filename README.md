@@ -1,11 +1,14 @@
 # Gigabyte-Z790-Aorus-Elite-13900KF-hackintosh
 
-测评视频：
+编辑中......
+
+# 主机测评视频
+
 B站 https://www.bilibili.com/video/BV1S8411a7sU
 
 油管 https://www.youtube.com/watch?v=jYer17CMrF0
 
-编辑中......
+
 
 # 第一个引导版本OC086 beta
 
@@ -28,9 +31,20 @@ CPU ：i9-13900KF
 
 # 完善程度
 
+CPU 跑分还算正常 Geekbench多核心2w5  、r20 多核心1w5 
+
+USB 2.0 和3.0正常 （不含前置USB）
+
+2.5G有线、蓝牙和WIFI 正常  ，支持隔空、通用控制、手机相机连续互通
+
+音频输出正常
+
+睡眠与唤醒正常
+
+
 # 注意点
 
-Tip1  Windows下定制USB
+Tip1  Windows下定制USB端口
 
 Tip2  ALC897声卡需仿冒device-id= D07A0000
 
