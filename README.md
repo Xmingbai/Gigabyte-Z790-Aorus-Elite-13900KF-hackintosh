@@ -1,5 +1,10 @@
 # Gigabyte-Z790-Aorus-Elite-13900KF-hackintosh
 
+测评视频：
+B站 https://www.bilibili.com/video/BV1S8411a7sU
+
+油管 https://www.youtube.com/watch?v=jYer17CMrF0
+
 编辑中......
 
 # 第一个引导版本OC086 beta
@@ -21,6 +26,7 @@ CPU ：i9-13900KF
 
 散热： 360水冷
 
+# 完善程度
 
 # 注意点
 
@@ -37,5 +43,4 @@ Tip4  bios设置参考   https://www.bilibili.com/read/cv8519606
 ![](https://github.com/Xmingbai/gigabyte-Z790-Aorus-Elite-13900KF-hackintosh/blob/main/PC.png)
 ![](https://github.com/Xmingbai/gigabyte-Z790-Aorus-Elite-13900KF-hackintosh/blob/main/R20.png)
 ![](https://github.com/Xmingbai/gigabyte-Z790-Aorus-Elite-13900KF-hackintosh/blob/main/geek.png)
-![](https://github.com/Xmingbai/gigabyte-Z790-Aorus-Elite-13900KF-hackintosh/blob/main/PC.png)
-![](https://github.com/Xmingbai/gigabyte-Z790-Aorus-Elite-13900KF-hackintosh/blob/main/PC.png)
+
